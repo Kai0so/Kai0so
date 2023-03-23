@@ -1,16 +1,14 @@
-### Hi there 👋
+# Olá, eu sou Kaio Militão!
 
-<!--
-**Kai0so/Kai0so** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor Full Stack com experiência em desenvolvimento web, incluindo a criação de aplicações web utilizando tecnologias como HTML, CSS, JavaScript, React, Node.js, MongoDB, entre outras.
+Gosto de trabalhar em projetos desafiadores e estou sempre buscando aprender coisas novas.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[ HTML | CSS | JavaScript | React | MySQL | Node.js | TypeScript | MongoBD | Python | Docker | Testes ]
+
+## Contato
+
+E-mail: kaioaugustoalmeida.m@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/kaioso/
