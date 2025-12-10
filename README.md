@@ -3,8 +3,6 @@
 Sou um desenvolvedor Full Stack com experiência em desenvolvimento web, incluindo a criação de aplicações web utilizando tecnologias como HTML, CSS, JavaScript, React, Node.js, MongoDB, entre outras.
 Gosto de trabalhar em projetos desafiadores e estou sempre buscando aprender coisas novas.
 
-Atualmente aprofundando meus conhecimentos em JAVA.
-
 ## Tecnologias
 
 [ HTML | CSS | JavaScript | React | MySQL | Node.js | TypeScript | MongoBD | Python | Docker | Testes ]
